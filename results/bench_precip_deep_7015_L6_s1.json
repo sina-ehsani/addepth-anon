@@ -1,0 +1,22 @@
+{
+  "dataset": "precip",
+  "mode": "deep",
+  "encode_depths": [
+    6,
+    6,
+    6,
+    6,
+    6,
+    6
+  ],
+  "compute_frac": 1.0,
+  "test_mse": 0.2891321062857175,
+  "best_val": 0.41494810471483307,
+  "crop": [
+    128,
+    128
+  ],
+  "window": 6,
+  "params_M": 8.079368,
+  "minutes": 290.9438794930776
+}

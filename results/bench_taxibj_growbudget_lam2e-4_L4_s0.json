@@ -1,0 +1,27 @@
+{
+  "dataset": "taxibj",
+  "mode": "routed",
+  "encode_depths": [
+    1,
+    1,
+    1,
+    1
+  ],
+  "compute_frac": 0.625,
+  "test_mse": 0.000257837675928299,
+  "best_val": 0.00020954767976599258,
+  "window": 4,
+  "horizon": 4,
+  "params_M": 5.109778,
+  "minutes": 113.52117106119792,
+  "batches_to_best": 50999,
+  "epochs_trained": 50,
+  "min_per_epoch": 2.2704234212239585,
+  "depth_profile": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "mean_depth": 1.0
+}

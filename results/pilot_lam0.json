@@ -1,0 +1,23 @@
+{
+  "persistence_prev_day": {
+    "test_mse": 3.2877208624110565
+  },
+  "persistence_last_week": {
+    "test_mse": 2.5075815886699506
+  },
+  "routed": {
+    "test_mse": 1.4816299881123427,
+    "best_val": 1.4574917554855347,
+    "params": 60226,
+    "minutes": 4.972084498405456,
+    "depth_profile": [
+      1.0,
+      1.28,
+      1.0,
+      1.0,
+      1.06,
+      1.0,
+      1.0
+    ]
+  }
+}

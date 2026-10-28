@@ -1,0 +1,24 @@
+{
+  "persistence_last_stack": {
+    "test_mse": 1.132708020335582
+  },
+  "zeros": {
+    "test_mse": 0.7257671698907979
+  },
+  "positional": {
+    "test_mse": 0.4643557541947277,
+    "best_val": 0.40668622158762346,
+    "params": 11092,
+    "minutes": 274.61109732786815,
+    "depth_profile": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      6.0
+    ],
+    "mean_depth": 1.833,
+    "positional": true
+  }
+}

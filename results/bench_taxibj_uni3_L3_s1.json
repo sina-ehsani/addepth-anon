@@ -1,0 +1,20 @@
+{
+  "dataset": "taxibj",
+  "mode": "deep",
+  "encode_depths": [
+    3,
+    3,
+    3,
+    3
+  ],
+  "compute_frac": 1.0,
+  "test_mse": 0.0002881197805046603,
+  "best_val": 0.00022792632574107432,
+  "window": 4,
+  "horizon": 4,
+  "params_M": 3.658754,
+  "minutes": 16.952221051851907,
+  "batches_to_best": 9799,
+  "epochs_trained": 11,
+  "min_per_epoch": 1.5411110047138097
+}

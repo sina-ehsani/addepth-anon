@@ -1,0 +1,31 @@
+{
+  "dataset": "precip",
+  "mode": "routed",
+  "encode_depths": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "compute_frac": 0.6428571428571429,
+  "test_mse": 0.0635757540147436,
+  "best_val": 0.033113184599922255,
+  "crop": [
+    64,
+    64
+  ],
+  "window": 6,
+  "params_M": 2.043948,
+  "minutes": 0.7587449232737223,
+  "depth_profile": [
+    1.0,
+    2.0,
+    3.0,
+    4.0,
+    5.0,
+    6.0
+  ],
+  "mean_depth": 3.5
+}

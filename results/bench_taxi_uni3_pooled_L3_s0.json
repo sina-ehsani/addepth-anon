@@ -1,0 +1,23 @@
+{
+  "dataset": "taxi",
+  "mode": "deep",
+  "encode_depths": [
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3
+  ],
+  "compute_frac": 1.0,
+  "test_mse": 0.018410452122355318,
+  "best_val": 0.03290624460921838,
+  "window": 7,
+  "lognorm": true,
+  "params_M": 1.408016,
+  "minutes": 3.852879206339518,
+  "batches_to_best": 1199,
+  "epochs_trained": 48,
+  "min_per_epoch": 0.08026831679873996
+}

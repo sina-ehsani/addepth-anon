@@ -1,0 +1,34 @@
+{
+  "dataset": "precip",
+  "mode": "routed",
+  "encode_depths": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    6
+  ],
+  "compute_frac": 0.40476190476190477,
+  "test_mse": 0.28504719085766844,
+  "best_val": 0.41748340279168167,
+  "crop": [
+    128,
+    128
+  ],
+  "window": 6,
+  "params_M": 8.079404,
+  "minutes": 354.7520945906639,
+  "batches_to_best": 7999,
+  "epochs_trained": 25,
+  "min_per_epoch": 14.190083783626555,
+  "depth_profile": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    6.0
+  ],
+  "mean_depth": 1.8333333333333333
+}

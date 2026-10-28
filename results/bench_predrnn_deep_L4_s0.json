@@ -1,0 +1,21 @@
+{
+  "mode": "uniform",
+  "encode_depths": [
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4,
+    4
+  ],
+  "compute_frac": 1.0,
+  "test_mse_perpixel": 0.023082976853847505,
+  "test_mse_openstl": 94.54787319335938,
+  "best_val": 0.022897669583559037,
+  "params_M": 5.098497,
+  "minutes": 204.68582032521564
+}

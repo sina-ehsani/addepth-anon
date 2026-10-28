@@ -1,0 +1,24 @@
+{
+  "persistence_last_stack": {
+    "test_mse": 1.132708020335582
+  },
+  "zeros": {
+    "test_mse": 0.7257671698907979
+  },
+  "routed": {
+    "test_mse": 0.4695554608384082,
+    "best_val": 0.4064571271234676,
+    "params": 16582,
+    "minutes": 253.5790440440178,
+    "depth_profile": [
+      1.34,
+      1.15,
+      1.21,
+      1.26,
+      1.28,
+      5.51
+    ],
+    "router_hard": true,
+    "mean_depth": 1.957
+  }
+}

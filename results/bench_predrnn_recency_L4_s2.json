@@ -1,0 +1,21 @@
+{
+  "mode": "custom",
+  "encode_depths": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    4
+  ],
+  "compute_frac": 0.6625,
+  "test_mse_perpixel": 0.019635974311828612,
+  "test_mse_openstl": 80.42895078125,
+  "best_val": 0.019658786326646804,
+  "params_M": 5.098497,
+  "minutes": 121.82317689657211
+}

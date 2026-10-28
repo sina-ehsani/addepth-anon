@@ -1,0 +1,24 @@
+{
+  "mode": "uniform",
+  "encode_depths": [
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3,
+    3
+  ],
+  "compute_frac": 1.0,
+  "test_mse_perpixel": 0.013848995101451874,
+  "test_mse_openstl": 56.725483935546876,
+  "best_val": 0.014035166889429093,
+  "params_M": 14.561281,
+  "minutes": 3222.5198365608853,
+  "batches_to_best": 32999,
+  "epochs_trained": 100,
+  "min_per_epoch": 32.225198365608854
+}

@@ -1,0 +1,22 @@
+{
+  "persistence_last_stack": {
+    "test_mse": 1.132708020335582
+  },
+  "zeros": {
+    "test_mse": 0.7257671698907979
+  },
+  "fixed_schedule": {
+    "test_mse": 0.4644976472904081,
+    "best_val": 0.4023784395411481,
+    "params": 11056,
+    "minutes": 430.02550472418466,
+    "fixed_schedule": [
+      2,
+      2,
+      3,
+      3,
+      5,
+      6
+    ]
+  }
+}

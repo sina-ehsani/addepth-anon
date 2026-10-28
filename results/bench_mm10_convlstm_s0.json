@@ -1,0 +1,11 @@
+{
+  "test_mse_perpixel": 0.03176374564170838,
+  "test_mse_openstl": 130.1043021484375,
+  "best_val": 0.031244134232401848,
+  "params_M": 16.553344,
+  "minutes": 105.655282497406,
+  "hidden": 256,
+  "layers": 4,
+  "in_frames": 10,
+  "out_frames": 10
+}

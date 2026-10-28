@@ -1,0 +1,22 @@
+{
+  "persistence_prev_day": {
+    "test_mse": 3.2877208624110565
+  },
+  "persistence_last_week": {
+    "test_mse": 2.5075815886699506
+  },
+  "shallow": {
+    "test_mse": 1.4667843138512588,
+    "best_val": 1.4367623329162598,
+    "params": 32400,
+    "minutes": 2.010054798920949,
+    "fixed_depth": 1
+  },
+  "deep": {
+    "test_mse": 1.5055255691536673,
+    "best_val": 1.4815574884414673,
+    "params": 53280,
+    "minutes": 2.9964649518330893,
+    "fixed_depth": 10
+  }
+}

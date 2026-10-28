@@ -1,0 +1,14 @@
+{
+  "persistence_last_stack": {
+    "test_mse": 1.132708020335582
+  },
+  "zeros": {
+    "test_mse": 0.7257671698907979
+  },
+  "convlstm": {
+    "test_mse": 0.5148179725140865,
+    "best_val": 0.4552744137344158,
+    "params": 6968,
+    "minutes": 215.17078297932943
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "persistence_prev_day": {
+    "test_mse": 3.2877208624110565
+  },
+  "persistence_last_week": {
+    "test_mse": 2.5075815886699506
+  },
+  "routed": {
+    "test_mse": NaN,
+    "best_val": NaN,
+    "params": 60226,
+    "minutes": 49.03784424861272,
+    "depth_profile": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ]
+  },
+  "bidepth": {
+    "test_mse": 1.5289309981356047,
+    "best_val": 1.4772181510925293,
+    "params": 85696,
+    "minutes": 5.366385169823965
+  },
+  "shallow": {
+    "test_mse": 1.4942055688115763,
+    "best_val": 1.4634730815887451,
+    "params": 32400,
+    "minutes": 2.4668262322743733,
+    "fixed_depth": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "persistence_last_stack": {
+    "test_mse": 1.132708020335582
+  },
+  "zeros": {
+    "test_mse": 0.7257671698907979
+  },
+  "bidepth": {
+    "test_mse": 0.45682558046603583,
+    "best_val": 0.40129153822174185,
+    "params": 16864,
+    "minutes": 464.412852259477
+  }
+}

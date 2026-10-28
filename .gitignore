@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+checkpoints/
+logs/
+*.log
+wandb/
+smoke_data/
+*.h5
+*.npy
+.DS_Store

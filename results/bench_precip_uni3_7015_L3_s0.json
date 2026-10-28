@@ -1,0 +1,25 @@
+{
+  "dataset": "precip",
+  "mode": "deep",
+  "encode_depths": [
+    3,
+    3,
+    3,
+    3,
+    3,
+    3
+  ],
+  "compute_frac": 1.0,
+  "test_mse": 0.29575978531238634,
+  "best_val": 0.396572267806134,
+  "crop": [
+    128,
+    128
+  ],
+  "window": 6,
+  "params_M": 3.726344,
+  "minutes": 2094.921714019775,
+  "batches_to_best": 51999,
+  "epochs_trained": 13,
+  "min_per_epoch": 161.14782415536732
+}

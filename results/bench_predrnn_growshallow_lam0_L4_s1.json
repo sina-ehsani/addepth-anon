@@ -1,0 +1,37 @@
+{
+  "mode": "routed",
+  "encode_depths": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    3,
+    3,
+    3,
+    3
+  ],
+  "compute_frac": 0.725000011920929,
+  "test_mse_perpixel": 0.02012522757053375,
+  "test_mse_openstl": 82.43293212890624,
+  "best_val": 0.020034033194184304,
+  "params_M": 5.098537,
+  "minutes": 308.77681702772776,
+  "batches_to_best": 10999,
+  "epochs_trained": 28,
+  "min_per_epoch": 11.027743465275991,
+  "depth_profile": [
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    1.0,
+    3.0,
+    3.0,
+    3.0,
+    3.0
+  ],
+  "mean_depth": 1.8000000953674316
+}

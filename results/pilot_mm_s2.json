@@ -1,0 +1,89 @@
+{
+  "persistence_last_stack": {
+    "test_mse": 0.06094258400797844
+  },
+  "zeros": {
+    "test_mse": 0.042646333217620847
+  },
+  "positional": {
+    "test_mse": 0.02322549107670784,
+    "best_val": 0.022923200443387033,
+    "params": 766,
+    "minutes": 7.676217869917552,
+    "depth_profile": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      3.0,
+      6.0
+    ],
+    "mean_depth": 1.778,
+    "positional": true
+  },
+  "deep": {
+    "test_mse": 0.022780358731746674,
+    "best_val": 0.022491447001695634,
+    "params": 712,
+    "minutes": 7.620089650154114,
+    "fixed_depth": 6
+  },
+  "shallow": {
+    "test_mse": 0.026090098291635513,
+    "best_val": 0.025735654279589654,
+    "params": 522,
+    "minutes": 3.340036141872406,
+    "fixed_depth": 1
+  },
+  "convlstm": {
+    "test_mse": 0.02912777727842331,
+    "best_val": 0.02869216512143612,
+    "params": 446,
+    "minutes": 2.774668820699056
+  },
+  "fixed_schedule": {
+    "test_mse": 0.023022032707929612,
+    "best_val": 0.02275992453098297,
+    "params": 712,
+    "minutes": 4.752176880836487,
+    "fixed_schedule": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      6
+    ]
+  },
+  "bidepth": {
+    "test_mse": 0.022126388370990752,
+    "best_val": 0.021940372943878173,
+    "params": 1084,
+    "minutes": 10.577447994550068
+  },
+  "routed": {
+    "test_mse": 0.027512580439448358,
+    "best_val": 0.027068136125802993,
+    "params": 5398,
+    "minutes": 3.587061794598897,
+    "depth_profile": [
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      1.0,
+      2.0,
+      2.0,
+      1.0
+    ],
+    "mean_depth": 1.222,
+    "positional": false
+  }
+}
